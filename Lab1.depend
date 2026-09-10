@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789040932 source:c:\disk d\informatica project kpi\programlabs\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+
