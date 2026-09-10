@@ -18,7 +18,7 @@ int main()
     printf("%s %s Enter following data.\n", Name, LastName);
 
     printf("Enter semestr:");
-    semestr = scanf("%u");
+    scanf("%u",&semestr);
 
     printf("Enter your admission score: ");
     scanf("%f", &admissionScore);
