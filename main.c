@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-#define Name "Ruslan"
-#define LastName "Chikvaidze"
-#define GroupName "RB-61"
-#define Faculty "RTF"
-#define University "Igor Sikorsky Kyiv Polytechnic Institute"
+//--------Макровизначення--------
+#define Name        "Ruslan"
+#define LastName    "Chikvaidze"
+#define GroupName   "RB-61"
+#define Faculty     "RTF"
+#define University  "Igor Sikorsky Kyiv Polytechnic Institute"
 int main()
 {
     unsigned int semestr;
